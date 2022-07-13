@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382420933960",
+    "project_id": "testlogin-c58be",
+    "storage_bucket": "testlogin-c58be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382420933960:android:8fb53b2fe953356117277d",
+        "android_client_info": {
+          "package_name": "com.example.loginprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382420933960-dcoqtr2t9k3mkcl3lfkes89hp46uslfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAComS-lQs8UyBe1fZroHkrKIeI_46Ejgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382420933960-dcoqtr2t9k3mkcl3lfkes89hp46uslfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

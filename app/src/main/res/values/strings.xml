@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Ironworks</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="confirmePassword">Confirme su contraseña</string>
+    <string name="formaParte">Forma parte de Ironworks</string>
+    <string name="Bienvenido">Bienvenido (a)</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="ingresaInvitado">Ingresar como invitado</string>
+    <string name="textoRegistro">¿No tienes cuenta?</string>
+    <string name="textoRegistrate">Regístrate</string>
+    <string name="olvidasteContraseña">Olvidé mi contraseña</string>
+    <string name="bienvenidaLogin">Bienvenido a Ironworks</string>
+    <string name="registrarme">Registrarme</string>
+    <!--Recuperar contraseña-->
+    <string name="textoRecuperarContraseña">Restableciendo tu password. Por favor ingresa
+    tu correo electrónico asociado a Ironworks.</string>
+    <string name="textoRestablecerPassword">Restablecer contraseña</string>
+    <!--Home-->
+    <string name="textoHome">¿En qué podemos ayudarle?</string>
+    <!--Strings secciones-->
+    <string name="textoCatálogo">Catálogo</string>
+    <string name="textoAcerca">Acerca de Ironworks</string>
+    <string name="textoCotizar">Cotizar un producto</string>
+    <string name="textoQuejas">Quejas y sugerencias</string>
+    <string name="textoContacto">Contáctanos</string>
+    <!--Quejas y Sugerencias-->
+    <string name="opinion">En Ironworks queremos conocer tu opinión.</string>
+    <string name="enviar">Enviar</string>
+    <string name="textoAreaOpinion">Quiero decirles que...</string>
+
+    <!--Productos-->
+    <string name="productoBarandal">Barandal</string>
+    <string name="descripcionBarandal">Barandal de 90cm de altura, separación entre barrotes de 15cm
+        con perfil tubular de 1 1/2"</string>
+    <string name="productoCancel">Cancel</string>
+    <string name="descripcionCancel">Cancel de aluminio blanco o natural, con vidrio templado o traslucido </string>
+    <!--Contactanos-->
+    <string name="textocontactanos">
+        En ironworks estamos para servirle en la sección de Quejas y Sugerencias, como
+        en los siguientes medios de contacto:
+    </string>
+    <string name="mediosContacto">
+        E-mail: herreriaecatepec@gmail.com
+        Dirección: Calle Aries, 34B Col. Izcalli Sta. Clara Ecatepec de Morelos.
+    </string>
+    <string name="acercadetexto">
+        La herrería “Estructuras metálicas Ecatepec” es una pyme familiar 100% mexicana con 20 años de experiencia que ofrece productos de excelente calidad a base de metales como aluminio, fierro, acero inoxidable, etc. Actualmente opera únicamente en una sucursal ubicada en Ecatepec.
+        Tiene como objetivo satisfacer las necesidades de los clientes y escalar a ser el principal productor y distribuidor de productos de herrería en la ciudad.
+    </string>
+    <!--Cotizar-->
+    <string name="textoProducto">
+        Producto:
+    </string>
+
+    <string name="opcionEscalera">
+        Escalera
+    </string>
+    <string name="opcionCancel">
+        Cancel
+    </string>
+    <string name="opcionBarandal">
+        Barandal
+    </string>
+    <string name="opcionPuerta">
+        Puerta
+    </string>
+
+    <string name="textoMaterial">
+        Material:
+    </string>
+
+    <string name="textoDimensiones">
+        Dimensiones (cm)
+    </string>
+
+    <string name="textoLargo">
+        Largo:
+    </string>
+
+    <string name="textoAncho">
+        Ancho:
+    </string>
+
+    <string name="textoAlto">
+        Alto:
+    </string>
+
+    <string name="detalles">
+        Detalles del producto:
+    </string>
+
+    <string name="solicitarCotizacion">
+        Solicitar cotización
+    </string>
+
+    <!--Catálogo-->
+    <string name="descripcion">Descripción</string>
+
+    <string name="reja">
+        Reja construida en acero inoxidable, de 200cm, con protecciones. Separaciones
+        de 15cm entre barrotes. Ideal para exteriores. para proteger zonas residenciales,
+        industriales y comerciales.
+        La mejor opción en resistencia y seguridad.
+    </string>
+
+    <string name="puerta">
+        Puerta principal en forja cuadriculada. Hecha en hierro y pintada color marrón.
+        material económico y muy utilizado en la construcción y diseño.
+    </string>
+
+    <string name="barandal">
+        Barandal Modelo	Neoclásico .
+        Largo x Altura	1 m x 9 m.
+        Diámetro del pasamano	60 mm
+    </string>
+
+    <string name="cancel">
+        Cancel corredizo de baño cubo. Vidrio templado transparente de 6mm. Marcos de aluminio. Puertas ajustables. Color Light Coco. Cierre hermético.
+        Medida 1 x 1 x 2 metros de altura. Acabado brillante por ambos lados.
+    </string>
+
+    <string name="escaleras">
+        Las de escaleras de Ironworks están diseñadas y trabajadas con acero inoxidable para crear un
+        producto final que sea simplemente insuperable. Una escalera de acero también significa
+        que está hecha para durar toda la vida, lo que garantiza que el mantenimiento continuo sea cero,
+        proporcionando así una solución extremadamente rentable.
+    </string>
+
+    <!--Títulos action bar-->
+    <string name="tituloAcerca">Acerca de Ironworks</string>
+    <string name="tituloContactanos">Contáctanos</string>
+    <string name="tituloMenu">Menú</string>
+    <string name="tituloQuejasYSugerencias">Quejas y Sugerencias</string>
+    <string name="tituloCatalogo">Catálogo de productos</string>
+    <string name="tituloCotizar">Cotizar un producto</string>
+    <string name="tituloIronworks">Ironworks</string>
+</resources>
+
+
